@@ -1,0 +1,15 @@
+.buttonsContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: rgb(155, 205, 188);
+}
+
+.button {
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+  background: linear-gradient(to right,rgb(21, 236, 244),rgb(35, 81, 209));
+  color: rgb(252, 219, 5);
+  font-weight: 800;
+}
